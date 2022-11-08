@@ -19,7 +19,7 @@ import shutil
 import os
 import csv
 
-data = pd.read_excel(r'Copia de Etiqueta_LI_CHX.xlsx')
+data = pd.read_excel(r'ordenes_1.xlsx')
 
 driver=webdriver.Firefox()
 rows = []
