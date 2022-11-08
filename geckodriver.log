@@ -1,0 +1,338 @@
+1667506479676	geckodriver	INFO	Listening on 127.0.0.1:56705
+1667506482495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileDBZ2Db"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667506485575	Marionette	INFO	Marionette enabled
+1667506485601	Marionette	INFO	Listening on port 56716
+Read port: 56716
+WebDriver BiDi listening on ws://127.0.0.1:56706
+1667506486515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileDBZ2Db\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56706/devtools/browser/c9586a16-e00d-48d2-a23c-c1d89a4cad56
+1667506507366	Marionette	INFO	Stopped listening on port 56716
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1667506718987	geckodriver	INFO	Listening on 127.0.0.1:57015
+1667506721722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileKY5P9a"
+1667506769593	geckodriver	INFO	Listening on 127.0.0.1:57056
+1667506772366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileYAtyPc"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667506777236	Marionette	INFO	Marionette enabled
+1667506777266	Marionette	INFO	Listening on port 57069
+Read port: 57069
+WebDriver BiDi listening on ws://127.0.0.1:57057
+1667506778316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileYAtyPc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57057/devtools/browser/41773fc8-dd0c-4400-8c93-4c0c1480699f
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+1667507217676	Marionette	INFO	Stopped listening on port 57069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofiletDELnu"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667506947661	Marionette	INFO	Marionette enabled
+1667506947691	Marionette	INFO	Listening on port 58526
+Read port: 58526
+WebDriver BiDi listening on ws://127.0.0.1:58516
+1667506948536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofiletDELnu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58516/devtools/browser/85f32342-58e1-4e38-ba7b-221177a4d215
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+1667507218965	Marionette	INFO	Stopped listening on port 58526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 56076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+23: ReferenceError: Components is not defined
+1667507034570	Marionette	INFO	Marionette enabled
+1667507034598	Marionette	INFO	Listening on port 59038
+Read port: 59038
+WebDriver BiDi listening on ws://127.0.0.1:59031
+1667507035690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilev5ih39\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59031/devtools/browser/f424d573-7bce-4c9f-8d3c-55272ea59652
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+1667507220272	Marionette	INFO	Stopped listening on port 59038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1667507250052	geckodriver	INFO	Listening on 127.0.0.1:59626
+1667507252882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileGxOf2r"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667507256409	Marionette	INFO	Marionette enabled
+1667507256425	Marionette	INFO	Listening on port 59636
+Read port: 59636
+WebDriver BiDi listening on ws://127.0.0.1:59627
+1667507257340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileGxOf2r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59627/devtools/browser/0ebf3dbd-3550-4505-b930-a455589015fa
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+1667507367702	Marionette	INFO	Stopped listening on port 59636
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 47276, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667507398559	geckodriver	INFO	Listening on 127.0.0.1:60187
+1667507401368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileP4vXHI"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667507404447	Marionette	INFO	Marionette enabled
+1667507404465	Marionette	INFO	Listening on port 60200
+Read port: 
+1667507404482	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 60200
+WebDriver BiDi listening on ws://127.0.0.1:60188
+1667507405242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileP4vXHI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60188/devtools/browser/642240ef-bef3-4fdc-b254-9f7bcaa1e0ab
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZrunHRjvTX5MIeL6Ibl7iJKqMmAAzHWmbkaKM7M3x0.js line 2 > eval line 5693 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 708: WebGL context was lost.
+JavaScript warning: resource://gre/modules/Troubleshoot.jsm, line 708: WebGL context was lost.
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+JavaScript warning: https://channels.onemarketer.cl/livechat/chilexpress/main.dart.js, line 3: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.chilexpress.cl."
+1667508213575	Marionette	INFO	Stopped listening on port 60200
+!!! error running onStopped callback: TypeError: callback is not a function
+a Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilecGUEm8"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667507640356	Marionette	INFO	Marionette enabled
+1667507640380	Marionette	INFO	Listening on port 60926
+Read port: 60926
+WebDriver BiDi listening on ws://127.0.0.1:60919
+1667507641198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilecGUEm8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60919/devtools/browser/3dfa7946-57e2-4c34-b088-4786bb4f4a72
+1667508210997	Marionette	INFO	Stopped listening on port 60926
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileFxJLRS"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667507807579	Marionette	INFO	Marionette enabled
+1667507807611	Marionette	INFO	Listening on port 61401
+Read port: 
+1667507807632	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 61401
+WebDriver BiDi listening on ws://127.0.0.1:61382
+1667507808781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileFxJLRS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61382/devtools/browser/b73e40e9-bffb-4cca-862b-bf6ff2179719
+1667508209231	Marionette	INFO	Stopped listening on port 61401
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+[Parent 15332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+-56b8df3ad72e
+1667508210172	Marionette	INFO	Stopped listening on port 62533
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileZVjBZR"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667508039368	Marionette	INFO	Marionette enabled
+1667508039392	Marionette	INFO	Listening on port 63792
+Read port: 63792
+WebDriver BiDi listening on ws://127.0.0.1:63782
+1667508040392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileZVjBZR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63782/devtools/browser/b17c85e5-472f-40aa-a2f2-f9ca0b698d50
+1667508206117	Marionette	INFO	Stopped listening on port 63792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667508207632	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+[Parent 52824, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667508535997	geckodriver	INFO	Listening on 127.0.0.1:64783
+1667508538920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilezCqooS"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667508541919	Marionette	INFO	Marionette enabled
+1667508541934	Marionette	INFO	Listening on port 64796
+Read port: 64796
+WebDriver BiDi listening on ws://127.0.0.1:64784
+1667508542749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilezCqooS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64784/devtools/browser/19df152a-f10f-423b-b9da-e913c596b5cd
+1667508689470	Marionette	INFO	Stopped listening on port 64796
+[Parent 54248, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667508690180	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+[Parent 54248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667509363412	geckodriver	INFO	Listening on 127.0.0.1:50222
+1667509366103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofile9ZSa5W"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667509369654	Marionette	INFO	Marionette enabled
+1667509369674	Marionette	INFO	Listening on port 50236
+Read port: 50236
+WebDriver BiDi listening on ws://127.0.0.1:50223
+1667509370706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofile9ZSa5W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50223/devtools/browser/ad5588ea-8a9a-4052-ab2b-679311a998e5
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 50: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1667509458973	Marionette	INFO	Stopped listening on port 50236
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1667509459624	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+[Parent 57760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667509701025	geckodriver	INFO	Listening on 127.0.0.1:51423
+1667509703916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofile9oAT6F"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667509706761	Marionette	INFO	Marionette enabled
+1667509706778	Marionette	INFO	Listening on port 51435
+Read port: 51435
+WebDriver BiDi listening on ws://127.0.0.1:51424
+1667509707688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofile9oAT6F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51424/devtools/browser/4483d1a1-bf8c-4dd6-90ca-016e81abed45
+1667509743183	Marionette	INFO	Stopped listening on port 51435
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 6860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667509744032	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+1667509920567	geckodriver	INFO	Listening on 127.0.0.1:52492
+1667509923464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52493" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilehl6GDr"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667509926312	Marionette	INFO	Marionette enabled
+1667509926331	Marionette	INFO	Listening on port 52503
+Read port: 
+1667509926356	geckodriver::browser	WARN	Failed fo convert  to u16
+Read port: 52503
+WebDriver BiDi listening on ws://127.0.0.1:52493
+1667509927173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilehl6GDr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52493/devtools/browser/5eaa29e5-22cc-4749-8b14-2df1710668c2
+1667509997668	Marionette	INFO	Stopped listening on port 52503
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667509998342	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+[Parent 57416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667510012459	geckodriver	INFO	Listening on 127.0.0.1:53667
+1667510015267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileQO0vvB"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667510018125	Marionette	INFO	Marionette enabled
+1667510018145	Marionette	INFO	Listening on port 53677
+Read port: 53677
+WebDriver BiDi listening on ws://127.0.0.1:53668
+1667510018940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileQO0vvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53668/devtools/browser/ae6488c5-7fc4-46af-9f31-20fba22ba2fb
+1667510069168	Marionette	INFO	Stopped listening on port 53677
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 57: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1667510069548	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 57"  data: no] Stack trace: allowAllCerts.disable()@cert.js:57
+destroy()@Session.jsm:206
+deleteSession()@WebDriverBiDi.jsm:148
+stop()@WebDriverBiDi.jsm:227
+observe()@resource://gre/modules/AsyncShutdown.jsm:576
+[Parent 1856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667510110929	geckodriver	INFO	Listening on 127.0.0.1:54761
+1667510113813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54762" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileHccfEw"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667510116721	Marionette	INFO	Marionette enabled
+1667510116748	Marionette	INFO	Listening on port 54775
+Read port: 54775
+WebDriver BiDi listening on ws://127.0.0.1:54762
+1667510117532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileHccfEw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54762/devtools/browser/7b3560b1-aeed-4014-b584-abe446bc1d3b
+1667510222297	Marionette	INFO	Stopped listening on port 54775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 67: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Extension error: InvalidStateError: An exception was thrown undefined 9333
+[[Exception stack
+resetTabBadge@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:9333:30
+resetState@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12832:27
+onTopLevelFrameDisconnected@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12620:14
+onFrameDisconnected@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12608:18
+addFrameController/frameController<@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12574:131
+onFrameDisconnnected@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12531:14
+ContentScriptFrameController/this.pagePortController<@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:12526:95
+onPageDisconnected@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:7186:74
+PagePortController/this.pageChannel<@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:7147:124
+handleDisconnect@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:6980:14
+connect/</<@moz-extension://0c6a1374-6d20-4a1a-adc6-209026c50a8f/main.js:6862:63
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:628:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2527:39
+]]
+[Parent 40532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667524338043	geckodriver	INFO	Listening on 127.0.0.1:56936
+1667524341035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileAX3TzX"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667524342855	Marionette	INFO	Marionette enabled
+1667524342863	Marionette	INFO	Listening on port 56946
+Read port: 56946
+WebDriver BiDi listening on ws://127.0.0.1:56937
+1667524343200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofileAX3TzX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56937/devtools/browser/eac93208-d576-4673-b6c5-b4ca493a055a
+1667524569833	geckodriver	INFO	Listening on 127.0.0.1:58347
+1667524572790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58348" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilegtyiMq"
+JavaScript error: firefox-config.cfg, line 123: ReferenceError: Components is not defined
+1667524573973	Marionette	INFO	Marionette enabled
+1667524573986	Marionette	INFO	Listening on port 58356
+Read port: 58356
+WebDriver BiDi listening on ws://127.0.0.1:58348
+1667524574350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ibravom\\AppData\\Local\\Temp\\rust_mozprofilegtyiMq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58348/devtools/browser/d871bc6a-7e10-4156-9466-43e1b364910e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://centrodeayuda.chilexpress.cl."
+1667564129567	Marionette	INFO	Stopped listening on port 58356
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
